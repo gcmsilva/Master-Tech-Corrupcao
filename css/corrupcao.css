@@ -1,0 +1,13 @@
+header {
+
+    background-image: url(http://www.vistadireita.com.br/blog_vista/wp-content/uploads/2015/11/falacia-combate-corrup%C3%A7%C3%A3o.jpg);
+ 
+}
+#homeHeading{
+	color:white;
+	background-color: black;
+}
+.foto {
+	width: 30%;
+	height: 30%;
+}
